@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  Magic 8 Ball
 //
-//  Created by Angela Yu on 14/06/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Barnabas Bala on 13/11/2021.
+//  Copyright © 2021 BarneysApps. All rights reserved.
 //
 
 import UIKit
